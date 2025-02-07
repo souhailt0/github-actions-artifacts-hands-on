@@ -31,5 +31,5 @@ jobs:
         name: hello-artifact
         path: ./artifacts
         
-    - name: display file
+    - name: displayy file
       run: cat ./artifacts/hello.txt
